@@ -10,7 +10,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: #f0f0f0;
+    background: #f6e1e1;
 }
 
 h1 {
@@ -18,7 +18,7 @@ h1 {
     font-size: 48px; 
     font-weight: bold; 
     text-shadow: 3px 3px 10px #ea3f05,
-                 -5px -5px 10px #129306; 
+                 -5px -5px 10px #156f0d; 
     text-align: center; 
     position: absolute;
     top: 90px; 
@@ -41,7 +41,7 @@ h1 {
     background: radial-gradient(circle at center, #4f1492 0%, #ff160a 80%, #000000 70%);
     border-radius: 50%;
     position: relative;
-    box-shadow: 10px 10px 20px #888888;
+    box-shadow: 10px 10px 20px #999898;
 }
 
 .content::before {
